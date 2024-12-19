@@ -13,7 +13,7 @@ const VideoList = () => {
       id: 2,
       title: 'Sample Video 2',
       src: '/videos/sample2.mp4',
-      thumbnail: '/videos/thumbnails/sample2.jpg'
+      thumbnail: '/videos/thumbnails/horizontalMockUp.mp4'
     }
   ];
 
