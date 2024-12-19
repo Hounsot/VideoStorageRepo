@@ -12,9 +12,16 @@ const VideoList = () => {
     {
       id: 2,
       title: 'Sample Video 2',
-      src: '/videos/sample2.mp4',
+      src: '/videos/horizontalMockUp.mp4',
       thumbnail: '/videos/thumbnails/horizontalMockUp.mp4'
-    }
+    },
+    {
+      id: 3,
+      title: 'stories',
+      src: '/videos/stories.mp4',
+      thumbnail: '/videos/thumbnails/stories.mp4'
+    },
+
   ];
 
   const copyToClipboard = (videoSrc) => {
